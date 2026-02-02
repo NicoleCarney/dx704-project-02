@@ -1,0 +1,1 @@
+I used ChatGPT to help troubleshoot environment issues when an import such as numpy was not loading correctly in my Jupyter notebook. I also used ChatGPT to double check file formatting and to clarify my understanding of how to properly backtest time series predictions for this assignment. 
